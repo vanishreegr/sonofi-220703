@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+MASKS NO LONGER MANDATORY!!! 😁👍
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
