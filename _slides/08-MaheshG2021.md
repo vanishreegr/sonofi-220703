@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+This Octopus has 5 legs
 
 ![riddlocat](https://octodex.github.com/images/riddlocat.png)
 {: .center}
